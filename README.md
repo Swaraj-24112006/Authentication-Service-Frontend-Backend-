@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Authentication System Setup Guide
 
 ## 📋 Project Overview
@@ -232,6 +231,3 @@ Your authentication system is now fully functional! Test it with:
 4. **JWT Token**: Token is returned on successful auth
 
 Enjoy! 🎉
-=======
-
->>>>>>> f1662a45b835c57092c64e4d790885fc1c3dd202
